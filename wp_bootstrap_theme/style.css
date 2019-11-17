@@ -1,0 +1,58 @@
+/*
+Theme Name: WP Bootstrap Theme
+Theme URI: http://alihussainfoto.com
+Author: Ali Hussain Al-Mubarak
+Author URI: http://alihussainfoto.com
+Description: Photography Theme
+Version: 1.0
+Year: 2019
+*/
+
+@media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+          .navbar{
+              padding: 0;
+          }
+          .navbar .nav-link, navbar-brand {
+    border-left: 1px solid 
+rgba(255,255,255,0.1);
+border-right: 1px solid
+rgba(0,0,0,0.2);
+              
+}
+          .nav-item a:hover{
+              background: #222;
+          }
+          .nav-item.active{
+              background: #222;
+          }
+
+      }
+/* end @media */
+
+.card-img-top img{
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 9px auto;
+}
+/* Fade-in */
+.fade-in {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+/* Fade-in */
