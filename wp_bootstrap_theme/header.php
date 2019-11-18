@@ -23,7 +23,7 @@
 <body>
 
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" role="navigation">
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark" role="navigation">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo('name'); ?></a>
