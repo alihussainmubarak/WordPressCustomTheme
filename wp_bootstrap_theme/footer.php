@@ -47,7 +47,6 @@
   </div>
   <!-- Footer Links -->
 
-  <hr style="border: 0.5px solid #222;">
 
   <!-- Social media -->
     <ul class="list-unstyled list-inline text-center">
