@@ -1,9 +1,10 @@
 <!--
 Theme Name: WP Bootstrap Theme
-Theme URI: http://alihussainfoto.com
-Author: Ali Hussain Al-Mubarak
-Author URI: http://alihussainfoto.com
-Description: Photography Theme
+Theme URI: https://alihussainmubarak.com/
+Author: Ali Hussain Mubarak
+Author URI: https://alihussainmubarak.com/
+Linkedin: https://www.linkedin.com/in/alihussainmubarak/
+Description: WordPress Theme
 Version: 1.0
 Year: 2019
 -->
